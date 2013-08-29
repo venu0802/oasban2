@@ -36,6 +36,7 @@ CREATE OR REPLACE PACKAGE BANINST1.wsak_adm_appl IS
   -- --------------------------------------
   --  Version   Issue          Date          User         Reason For Change
   --  -------  ---------    -----------     --------     -----------------------
+  --  #2
   --   #1
   --   A       O8-000495    02/16/2011      VBANGALo      Initial creation.
   --   B       OASBAN-2     05/08/2012      NABDELRA      Added procedures for processing docs downloaded for VisualZen
